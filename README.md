@@ -3,6 +3,5 @@
 
  And here is my todo list.
 
- - stroke fluffy cat tummies.
  - finish up the github training
  - eat some chocolate.
