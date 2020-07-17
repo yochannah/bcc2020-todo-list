@@ -4,5 +4,4 @@
  And here is my todo list.
 
  - finish up the github training
- - eat some chocolate.
  - make plans for training tomorrow. 
